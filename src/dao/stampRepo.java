@@ -4,7 +4,7 @@ import bean.stamp;
 public class stampRepo {
     private Connection con = null;
     public stampRepo () {
-        String url="jdbc:mysql://aak9c18ya9dhbz.cxtpq9s3htbt.eu-west-2.rds.amazonaws.com:3306/ebdb?user=dateAppAdmin&password=dateAppAdmin";
+        String url="jdbc:mysql://aws-rds-stampapp.cxtpq9s3htbt.eu-west-2.rds.amazonaws.com:3306/ebdb?user=dateAppAdmin&password=dateAppAdmin";
 
         try {
             Class.forName("com.mysql.jdbc.Driver");
