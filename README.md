@@ -21,7 +21,7 @@ The index page will give you instruction to change the URL path to /app.jsp to c
 
 > **Database:**
 
-> - The database used is an AWS RDS instance, the credentials were put in the connection string already for you to use. To see the DB table update after new stamps are inserted successfully, you can connect to the DB using the hostname and credentials   **dateAppAdmin@aak9c18ya9dhbz.cxtpq9s3htbt.eu-west-2.rds.amazonaws.com:3306, user&password: dateAppAdmin **
+> - The database used is an AWS RDS instance, the credentials were put in the connection string already for you to use. To see the DB table update after new stamps are inserted successfully, you can connect to the DB using the hostname and credentials   **aws-rds-stampapp.cxtpq9s3htbt.eu-west-2.rds.amazonaws.comm:3306, user&password: dateAppAdmin **
 
 ![enter image description here](https://elasticbeanstalk-eu-west-2-644719600789.s3.eu-west-2.amazonaws.com/readme/db.PNG)
 
